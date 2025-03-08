@@ -149,3 +149,5 @@ biom convert \
  -i feature-table.biom \
 -o rel-phyla-table.tsv \
 --to-tsv
+
+## Please cite QIIME2 original package refer online page for additional details
